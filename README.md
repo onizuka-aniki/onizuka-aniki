@@ -1,9 +1,6 @@
-My previous github: https://github.com/Prozi
-My previous facebook: https://facebook.com/jacek.pietal
-My previous email: prozi85@gmail.com
+## Hello!
 
-All stolen with the phone.
-And google 2fa sucks btw, since thief has access to all,
-and I have 0% chances to recover my stuff.
-
-So continuing the legacy of my npm packages here...
+* my old phone got stolen
+* my old gmail got stolen
+* my old [github.com/Prozi](https://github.com/Prozi) is done
+* my open-source will live on here
